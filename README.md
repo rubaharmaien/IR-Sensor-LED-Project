@@ -26,6 +26,9 @@ This is a beginner-friendly Arduino project that uses an **IR sensor** to detect
 - IR sensor GND → GND  
 
 ![Setup Image](setup.jpg)
+## Demo Video  
+[Watch the demo](demo.mp4)
+
 
 ---
 
